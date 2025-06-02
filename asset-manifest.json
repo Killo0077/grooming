@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/grooming/static/css/main.453e4e0d.css",
+    "main.js": "/grooming/static/js/main.c910bcc5.js",
+    "index.html": "/grooming/index.html",
+    "main.453e4e0d.css.map": "/grooming/static/css/main.453e4e0d.css.map",
+    "main.c910bcc5.js.map": "/grooming/static/js/main.c910bcc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.453e4e0d.css",
+    "static/js/main.c910bcc5.js"
+  ]
+}
